@@ -1,0 +1,175 @@
+
+
+
+
+/*-------------------------------------------------------------------Primarary colors(start)-----------*/
+
+
+
+.Primarary-colors{
+  width: 100%;
+}
+.first-column {
+  width: 30%;
+  padding: 40px 40px;
+  float: left;
+}
+
+.second-column {
+  width: 70%;
+  padding: 50px 30px 0 0;
+  float: right;
+  
+}
+
+
+.colour-box p {
+  font-size: 12px; 
+  line-height: 13px;
+}
+
+.color-boxes{
+  width: 80%;
+  margin: 50px auto; 
+}
+
+
+
+/*** Colors ***/
+.colour {
+  height: 100px;
+  width: 100%;
+  background: red;
+  margin: 0 auto;
+  border-radius: 25px;
+
+}
+
+.colour-box {
+  padding: 10px;
+  margin: 0 10px;
+  width: 150px;
+  float: right;
+}
+
+.colour-box p {
+  font-size: 12px;
+  text-align: center;
+  margin: 5px;
+  padding:3px 5px 0 5px;
+}
+
+.colour-variation-wrapper {
+  margin: 40px auto;
+}
+
+
+
+/* Media query mobil*/
+@media only screen and (max-width: 1000px) {
+
+ .first-column {
+      width: 100%;
+      padding-bottom: 10px;
+      float: left;
+  }
+
+  .Primarary-colors{
+    width: 100%;
+    padding-top: 50px;
+  }
+  .second-column {
+      width: 100%;
+      float: none;
+      padding-left: 20px;
+      padding-right: 0;
+  }
+  
+
+  .second-column .colour-box{
+    float: left;   
+    padding-top: 30px;
+    
+}
+.Primarary-colors{
+  width: 100%;
+}
+
+.colour-box {
+  padding: 10px;
+  margin: 0 10px;
+  width: 130px;
+  float: right;
+}
+
+.colour-box p {
+  font-size: 10px;
+  line-height: 7px;
+}
+}
+
+
+
+
+
+
+
+
+
+/*-------------------------------------------------------------------Fonts (starts)-----------*/
+
+
+
+h1{
+  font-family: Adelle; 
+  font-size: 30px;
+  font-weight: bold;
+  padding: 100px 0 20px 35px;
+  padding-bottom: 20px;
+}
+
+
+h2{
+  font-family: Adelle; 
+  font-size: 20px;
+  padding-bottom: 15px;
+  text-transform: uppercase;
+  float: left;
+
+}
+
+ p {
+  color: #4C4C4C;
+  font-size: 12px; 
+  line-height: 20px;
+  float: left;
+}
+
+/*-------------------------------------------------------------------Fonts (slut)-----------*/
+
+
+
+
+
+
+
+/*------------------------------------------------------------------- secundary Colors(start)-----------*/
+
+
+.Secundarry-colors1{
+  width: 100%;
+  padding-top: 400px; 
+}
+
+/* Media query mobil*/
+@media only screen and (max-width: 1000px) {
+
+  .Secundarry-colors1{
+    padding-top:700px; 
+  }
+  
+ }
+
+ 
+ 
+/*------------------------------------------------------------------- secundary Colors(slut)-----------*/

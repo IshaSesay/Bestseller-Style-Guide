@@ -1,0 +1,23 @@
+.login-container{
+    text-align: center;
+    margin: auto; 
+    padding-top: 200px;
+}
+
+
+ .user, .password, .Login{
+    height: 40px;
+}
+
+
+
+/*form sign up styling*/
+
+.wrapper-main{
+    text-align: center;
+    margin: auto; 
+    padding-top: 200px;
+}
+.form-signup{
+    height: 40px;
+}

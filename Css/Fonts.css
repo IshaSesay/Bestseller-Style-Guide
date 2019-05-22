@@ -1,0 +1,145 @@
+
+
+/*-------------------------------------------------------------------Primarary colors(start)-----------*/
+
+
+
+.container{
+  width: 100%;
+  padding-top: 20px;
+}
+.first-column {
+  width: 40%;
+  padding: 40px 40px;
+  float: left;
+}
+
+.first-column p {
+  padding: 20px 150px 0 0; 
+}
+
+.second-column {
+  width: 25%;
+  padding: 50px 30px 0 0;
+  float: left;
+}
+
+
+.second-column h3{
+    font-family: addelle;
+    font-size: 200px;
+    float: left;
+}
+
+.third-column {
+  width: 35%;
+  padding: 50px 30px 0 0;
+  float: right;
+}
+
+.third-column p{
+font-family: addelle;
+  padding-top: 60px;
+  font-size: 20px;
+  line-height: 35px;
+  letter-spacing: 5px;
+}
+
+
+
+/* Media query mobil*/
+@media only screen and (max-width: 1000px) {
+
+ .first-column {
+      width: 100%;
+      padding-bottom: 10px;
+      float: left;
+  }
+  .first-column p {
+    padding: 10px 0 0 0; 
+  }
+
+
+
+
+  .second-column {
+    width: 100%;
+    }
+  
+  .second-column h3{
+    padding-left: 35px;
+  }
+
+
+
+.container{
+  width: 100%;
+}
+.container{
+  width: 100%;
+  padding-top: 0px;
+}
+
+
+
+
+.third-column {
+  width: 100%;
+}
+
+.third-column p{
+  font-size: 18px;
+  letter-spacing: 2px;
+  padding: 0 0  0  35px;
+}
+
+
+
+h1{
+  padding-top: 100px
+}
+}
+
+
+
+
+
+
+
+
+
+/*-------------------------------------------------------------------Fonts (starts)-----------*/
+
+
+
+h1{
+  font-family: Adelle; 
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 200px 50px;
+  padding-left: 35px;
+}
+
+
+h2{
+  font-family: Adelle; 
+  font-size: 20px;
+  padding-bottom: 15px;
+  text-transform: uppercase;
+  float: left;
+
+}
+
+ p {
+  color: #4C4C4C;
+  font-size: 12px; 
+  line-height: 20px;
+  float: left;
+}
+
+/*-------------------------------------------------------------------Fonts (slut)-----------*/
+
+
+
+
+
